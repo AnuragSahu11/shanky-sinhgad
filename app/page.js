@@ -20,7 +20,7 @@ const popupContentArr = [
     src: "/KalyanGate.svg",
     x: 31,
     y: 22,
-    width: 6,
+    width: 8,
     popupContent: {
       redirectLink: "https://maps.app.goo.gl/Df4AKaaEb6SXM6G96",
       popupImageLink: "/KalyanDarwaja.jpeg",
@@ -31,7 +31,7 @@ const popupContentArr = [
     src: "/TanajiSamadhi.svg",
     x: 66,
     y: 23,
-    width: 6,
+    width: 8,
     popupContent: {
       redirectLink: "https://maps.app.goo.gl/bkA29beFczJ3mhSd6",
       popupImageLink: "/tanaji.jpeg",
@@ -42,7 +42,7 @@ const popupContentArr = [
     src: "/PuneGate.svg",
     x: 62,
     y: 58,
-    width: 6,
+    width: 8,
     popupContent: {
       redirectLink: "https://maps.app.goo.gl/bkE9R6wdnyMt5GAJ7",
       popupImageLink: "/puneGate.jpeg",
