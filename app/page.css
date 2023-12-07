@@ -1,5 +1,5 @@
 .main-container {
-  background-color: #645957;
+  background-color: #64595781;
   height: 130vh;
 }
 .background-image-container {
@@ -56,8 +56,8 @@
     transform: scale(1);
   }
   50% {
-    -webkit-transform: scale(1.5);
-    transform: scale(1.5);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
   }
   100% {
     -webkit-transform: scale(1);
@@ -76,8 +76,8 @@
     transform: translateX(0);
   }
   50% {
-    -webkit-transform: translateX(10px);
-    transform: translateX(10px);
+    -webkit-transform: translateX(5px);
+    transform: translateX(5px);
   }
   100% {
     -webkit-transform: translateX(0);
