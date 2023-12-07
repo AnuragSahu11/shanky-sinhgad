@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30.6 44.67">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #231f20;
+        font-family: NunitoSans10pt-Black, 'Nunito Sans 10pt';
+        font-size: 15.66px;
+        font-weight: 800;
+      }
+
+      .cls-3 {
+        fill: #e02530;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g>
+        <path class="cls-3" d="m30.6,15.3c0,14.08-11.19,25.9-14.43,29.03-.48.47-1.25.46-1.73,0C11.21,41.14,0,29.12,0,15.3,0,6.85,6.85,0,15.3,0s15.3,6.85,15.3,15.3Z"/>
+        <circle class="cls-1" cx="15.3" cy="15.4" r="11.08"/>
+      </g>
+      <text class="cls-2" transform="translate(10.43 20.92)"><tspan x="0" y="0">P</tspan></text>
+    </g>
+  </g>
+</svg>

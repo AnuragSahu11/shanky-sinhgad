@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124.58 131.94">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: NunitoSans10pt-Bold, 'Nunito Sans 10pt';
+        font-size: 18px;
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #e02530;
+      }
+
+      .cls-4 {
+        fill: none;
+        opacity: .5;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g>
+        <g>
+          <path class="cls-2" d="m66.71,59.27h-9.24c-.28,0-.57.1-.79.3-.22.2-.34.48-.35.78,0,.3.1.58.3.8s.48.34.83.35h9.23s.02,0,.03,0c.29,0,.56-.11.76-.3.22-.2.34-.48.35-.78.02-.61-.47-1.13-1.13-1.15Z"/>
+          <path class="cls-2" d="m66.71,64.34h-9.24c-.28-.01-.57.1-.79.3-.22.2-.34.48-.35.78-.02.61.47,1.13,1.13,1.14h9.24s.02,0,.03,0c.29,0,.56-.11.77-.31.22-.2.34-.48.35-.78,0-.3-.1-.58-.3-.8-.2-.22-.48-.34-.83-.35Z"/>
+          <path class="cls-2" d="m80.21,79.27c-.2-.22-.48-.34-.83-.35h-1.41v-5.8c0-.61-.5-1.11-1.11-1.11h-1.62v-23.87c0-.61-.5-1.11-1.11-1.11h-3c-.76-4.33-4.58-7.56-9.03-7.56s-8.27,3.22-9.03,7.56h-3c-.61,0-1.11.5-1.11,1.11v23.87h-1.62c-.61,0-1.11.5-1.11,1.11v5.8h-1.4c-.61,0-1.13.47-1.15,1.08,0,.3.1.58.3.8s.48.34.83.35h34.57s.02,0,.03,0c.29,0,.56-.11.76-.3.22-.2.34-.48.35-.78,0-.3-.1-.58-.3-.8Zm-29.05-7.26v-22.76h2.88c.59,0,1.08-.46,1.11-1.05.22-3.65,3.26-6.51,6.94-6.51s6.72,2.86,6.94,6.51c.04.59.52,1.05,1.11,1.05h2.88v22.76h-21.85Zm24.57,2.23v4.69h-27.3v-4.69h27.3Z"/>
+          <path class="cls-2" d="m66.71,54.2h-9.24c-.63-.03-1.12.47-1.14,1.08-.02.61.47,1.13,1.13,1.15h9.23s.02,0,.03,0c.29,0,.56-.11.76-.3.22-.2.34-.48.35-.78,0-.3-.1-.58-.3-.8-.2-.22-.48-.34-.83-.35Z"/>
+        </g>
+        <circle class="cls-4" cx="62.09" cy="62.54" r="45.25"/>
+        <text class="cls-1" transform="translate(14.83 56.68) rotate(-76.02)"><tspan x="0" y="0">T</tspan></text>
+        <text class="cls-1" transform="translate(16.58 47.99) rotate(-63.97)"><tspan x="0" y="0">A</tspan></text>
+        <text class="cls-1" transform="translate(21.82 36.81) rotate(-48.97)"><tspan x="0" y="0">N</tspan></text>
+        <text class="cls-1" transform="translate(29.95 27.21) rotate(-34.09)"><tspan x="0" y="0">A</tspan></text>
+        <text class="cls-1" transform="translate(40.68 20.25) rotate(-22.71)"><tspan x="0" y="0">J</tspan></text>
+        <text class="cls-1" transform="translate(46.06 17.98) rotate(-16.48)"><tspan x="0" y="0">I</tspan></text>
+        <text class="cls-1" transform="translate(50.31 16.68) rotate(-11.27)"><tspan x="0" y="0"> </tspan></text>
+        <text class="cls-1" transform="translate(54.12 15.57) rotate(-2.49)"><tspan x="0" y="0">S</tspan></text>
+        <text class="cls-1" transform="translate(64.42 14.83) rotate(11)"><tspan x="0" y="0">A</tspan></text>
+        <text class="cls-1" transform="translate(76.59 16.81) rotate(27.34)"><tspan x="0" y="0">M</tspan></text>
+        <text class="cls-1" transform="translate(89.64 23.52) rotate(43.51)"><tspan x="0" y="0">A</tspan></text>
+        <text class="cls-1" transform="translate(98.73 31.86) rotate(58.46)"><tspan x="0" y="0">D</tspan></text>
+        <text class="cls-1" transform="translate(105.51 42.51) rotate(73.83)"><tspan x="0" y="0">H</tspan></text>
+        <text class="cls-1" transform="translate(108.85 55.05) rotate(84.25)"><tspan x="0" y="0">I</tspan></text>
+      </g>
+      <g>
+        <path class="cls-3" d="m48.68,102.57c0,14.08-11.19,25.9-14.43,29.03-.48.47-1.25.46-1.73,0-3.23-3.17-14.44-15.2-14.44-29.02,0-8.45,6.85-15.3,15.3-15.3s15.3,6.85,15.3,15.3Z"/>
+        <circle class="cls-2" cx="33.38" cy="102.67" r="11.08"/>
+      </g>
+    </g>
+  </g>
+</svg>

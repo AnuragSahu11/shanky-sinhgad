@@ -1,7 +1,86 @@
 .main-container {
   background-color: #645957;
-  height: 100vh;
+  height: 130vh;
+}
+.background-image-container {
+  position: relative;
 }
 .background-image {
+  height: 130vh;
+}
+.popup-container {
+  cursor: pointer;
+  /* background-color: red; */
+  position: absolute;
+}
+.popup-image {
+}
+.display-image {
+  position: absolute;
+}
+.popup-content-container {
+  z-index: 11111;
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.5);
+  top: 0;
+  left: 0;
   height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.popup-content {
+  color: #0f172a;
+  border-radius: 5px;
+  padding: 15px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.popup-button {
+  padding: 15px;
+}
+
+.scale-up-animation {
+  -webkit-animation: scale-up-animation 2s infinite;
+  animation: scale-up-animation 2s infinite;
+}
+
+@keyframes scale-up-animation {
+  0% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+  50% {
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+  }
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+}
+
+.shake-x-animation {
+  -webkit-animation: shake-x 2s infinite;
+  animation: shake-x 2s infinite;
+}
+
+@keyframes shake-x {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  50% {
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px);
+  }
+  100% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
 }
