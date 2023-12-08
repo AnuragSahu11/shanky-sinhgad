@@ -73,6 +73,16 @@ export default function Home() {
           style={{ top: "30%", width: "33%", left: "5%" }}
           src="/horse.svg"
         ></img>
+        <img
+          className="display-image shake-x-animation"
+          style={{ top: "45%", width: "33%", left: "5%" }}
+          src="/Food.svg"
+        ></img>
+        <img
+          className="display-image shake-x-animation"
+          style={{ top: "60%", width: "33%", left: "5%" }}
+          src="/trek.svg"
+        ></img>
       </div>
     </main>
   );
